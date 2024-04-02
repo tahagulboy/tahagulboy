@@ -1,6 +1,6 @@
 ### Hi there, I'm Taha Gülboy 👋
 
-I'm full stack developer and computer programming student at Marmara University. I love creating things and solving problems through programming.
+I'm junior full stack developer and computer programming student at Marmara University. I love creating things and solving problems through programming.
 I am interested in web development, game development and mobile development.
 I want to improve and be successful in this thing that I have been doing as a hobby since middle school.
 
