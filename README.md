@@ -4,6 +4,8 @@ I'm full stack developer and computer programming student at Marmara University.
 I am interested in web development, game development and mobile development.
 I want to improve and be successful in this thing that I have been doing as a hobby since middle school.
 
+My Links: https://linktr.ee/tahagulboy
+
 My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
 <!--
