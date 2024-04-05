@@ -8,6 +8,12 @@ Contact Me: https://linktr.ee/tahagulboy
 
 My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
+
+My Education Life <br /> 
+Marmara University - Computer Programming - 2021-2024
+ITOMTAL - Network Operating - 2017-2021
+
+
 <!--
 categorized; 
 Game Development Skills
