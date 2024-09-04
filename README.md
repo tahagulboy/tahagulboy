@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Taha Gülboy</h1>
-<h3 align="center">full-stack javascript developer</h3>
+<h3 align="center">full-stack developer</h3>
 
 I aim to improve myself in the field of software development and to contribute by taking part in innovative projects in this field.
 
