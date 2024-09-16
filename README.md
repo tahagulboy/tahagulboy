@@ -5,7 +5,7 @@ I aim to improve myself in the field of software development and to contribute b
 
 - 🌱 I’m currently learning **advanced full-stack development techniques**
 - 🧩 I'm improving myself in the fields of web development and game development
-- 📫 How to reach me: tahagulboy@outlook.com.tr
+- 📫 How to reach me: tgulboy52@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
