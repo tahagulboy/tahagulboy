@@ -10,7 +10,7 @@ I aim to improve myself in the field of software development and to contribute b
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,mongo,vite,less,html,css,git,npm,nodejs,bootstrap,tailwind,cs,unity,ps,mysql,php,python,django,androidstudio,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,asp,mongo,vite,less,html,css,git,npm,nodejs,bootstrap,tailwind,cs,unity,ps,mysql,php,python,django,androidstudio,java,)](https://skillicons.dev)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahagulboy)](https://github.com/tahagulboy/github-readme-stats)
 </p>
