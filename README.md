@@ -15,4 +15,9 @@ I aim to improve myself in the field of software development and to contribute b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahagulboy)](https://github.com/tahagulboy/github-readme-stats)
 </p>
 
+<h3 align="left">Main Projects</h3>
+aspnet core sql server -> https://github.com/tahagulboy/core-blog
+typescript react mongodb -> https://github.com/tahagulboy/better-blog
+django sql -> https://github.com/tahagulboy/grup-indirimi
+php mysql -> https://github.com/tahagulboy/member-tracking-system
 
