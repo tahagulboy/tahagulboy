@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Taha Gülboy</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 📫 How to reach me: tgulboy52@gmail.com
 
