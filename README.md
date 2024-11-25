@@ -1,11 +1,7 @@
 <h1 align="center">Hi There, I'm Taha Gülboy</h1>
-<h3 align="center">junior full-stack developer</h3>
+<h3 align="center">Web Developer</h3>
 
-I aim to improve myself in the field of software development and to contribute by taking part in innovative projects in this field.
-
-- 🌱 I’m currently learning **advanced full-stack development techniques**
-- 🧩 I'm improving myself in the fields of web development and game development
-- 📫 How to reach me: tgulboy52@gmail.com
+📫 How to reach me: tgulboy52@gmail.com
 
 ### Things I like to use
 <p>
