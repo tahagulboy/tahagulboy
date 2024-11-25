@@ -27,13 +27,3 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-
-
-<h3 align="left">Main Projects</h3>
-aspnet core sql server -> https://github.com/tahagulboy/core-blog
-typescript react mongodb -> https://github.com/tahagulboy/better-blog
-django sql -> https://github.com/tahagulboy/grup-indirimi
-php mysql -> https://github.com/tahagulboy/member-tracking-system
-c# sql server -> https://github.com/tahagulboy/depo-yonetim-sistemi
-three.js -> https://github.com/tahagulboy/three-js-game
-java -> https://github.com/tahagulboy/gps-speedometer
